@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nguyen",
+      "username": "Nguyen Van A",
+      "email": "nguyena@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Hoang",
+      "username": "Nguyen Van B",
+      "email": "nguyenb@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Tran",
+      "username": "Nguyen Van C",
+      "email": "nguyenc@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Hoang",
+      "username": "Nguyen Van B",
+      "email": "nguyenb@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Tran",
+      "username": "Nguyen Van C",
+      "email": "nguyenc@gmail.com"
+    }
+  ]
+}
